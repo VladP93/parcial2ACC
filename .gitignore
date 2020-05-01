@@ -32,4 +32,4 @@ msbuild.wrn
 .vs/
 
 # Publish profiles
-/Properties/PublishProfiles
+Galeria_nc31/Properties/PublishProfiles/
